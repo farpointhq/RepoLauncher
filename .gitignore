@@ -1,0 +1,15 @@
+.git/
+.slate/
+node_modules/
+.venv/
+__pycache__/
+venv/
+build/
+dist/
+out/
+.cache/
+cache/
+tmp/
+*.map
+*.log
+.DS_Store
